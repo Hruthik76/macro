@@ -22,3 +22,17 @@ JWT_SECRET=yourSuperSecretKey
 ## API Testing with Postman
 # POST /api/auth/register
 ![image](https://github.com/user-attachments/assets/fb404268-eb8e-42e2-9d02-38e78f258394)
+
+# POST /api/auth/login
+
+
+# GET /api/profile
+
+# PUT /api/profile
+
+
+# GET /api/foods?search=apple
+
+# POST /api/diary
+
+# GET /api/dashboard?date=2025-07-07
